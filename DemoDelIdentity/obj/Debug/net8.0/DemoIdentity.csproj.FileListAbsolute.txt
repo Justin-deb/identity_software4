@@ -157,3 +157,4 @@ C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\De
 C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\DemoIdentity.pdb
 C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\DemoIdentity.genruntimeconfig.cache
 C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\ref\DemoIdentity.dll
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\DemoIdentity.sourcelink.json

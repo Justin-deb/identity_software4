@@ -4,7 +4,7 @@ namespace DemoIdentity.Identity
 {
     public class MyRol:IdentityRole
     {
-        public String seccion { get; set; }
+        public String Seccion { get; set; }
         public DateTime FechaAlta { get; set; }
     }
 }

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|c:\\users\\justin\\documents\\universidad de costa rica\\software4\\demodelidentity\\demodelidentity\\pages\\account\\roles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|solutionrelative:demodelidentity\\pages\\account\\roles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|c:\\users\\justin\\documents\\universidad de costa rica\\software4\\demodelidentity\\demodelidentity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|solutionrelative:demodelidentity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|c:\\users\\justin\\documents\\universidad de costa rica\\software4\\demodelidentity\\demodelidentity\\identity\\myrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|solutionrelative:demodelidentity\\identity\\myrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|c:\\users\\justin\\documents\\universidad de costa rica\\software4\\demodelidentity\\demodelidentity\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|solutionrelative:demodelidentity\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|c:\\users\\justin\\documents\\universidad de costa rica\\software4\\demodelidentity\\demodelidentity\\pages\\account\\rolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|solutionrelative:demodelidentity\\pages\\account\\rolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|c:\\users\\justin\\documents\\universidad de costa rica\\software4\\demodelidentity\\demodelidentity\\pages\\account\\roles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE15448A-3F69-B244-DDB3-DA023D199DE4}|DemoDelIdentity\\DemoIdentity.csproj|solutionrelative:demodelidentity\\pages\\account\\roles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DemoDelIdentity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "DemoDelIdentity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T23:11:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRol.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Identity\\MyRol.cs",
+              "RelativeDocumentMoniker": "DemoDelIdentity\\Identity\\MyRol.cs",
+              "ToolTip": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Identity\\MyRol.cs",
+              "RelativeToolTip": "DemoDelIdentity\\Identity\\MyRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:02:04.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Roles.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Account\\Roles.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoDelIdentity\\Pages\\Account\\Roles.cshtml.cs",
+              "ToolTip": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Account\\Roles.cshtml.cs",
+              "RelativeToolTip": "DemoDelIdentity\\Pages\\Account\\Roles.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvygAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T23:01:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Account\\Roles.cshtml",
+              "RelativeDocumentMoniker": "DemoDelIdentity\\Pages\\Account\\Roles.cshtml",
+              "ToolTip": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Account\\Roles.cshtml",
+              "RelativeToolTip": "DemoDelIdentity\\Pages\\Account\\Roles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T23:00:24.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Account\\RolesDTO.cs",
+              "RelativeDocumentMoniker": "DemoDelIdentity\\Pages\\Account\\RolesDTO.cs",
+              "ToolTip": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Account\\RolesDTO.cs",
+              "RelativeToolTip": "DemoDelIdentity\\Pages\\Account\\RolesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T22:59:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoDelIdentity\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Justin\\Documents\\Universidad de Costa Rica\\Software4\\DemoDelIdentity\\DemoDelIdentity\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "DemoDelIdentity\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T22:36:05.28Z",
+              "EditorCaption": ""
             }
           ]
         }

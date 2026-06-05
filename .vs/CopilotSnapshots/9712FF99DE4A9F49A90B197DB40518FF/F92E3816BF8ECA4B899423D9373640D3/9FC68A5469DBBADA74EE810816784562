@@ -1,0 +1,62 @@
+﻿using DemoIdentity.Pages.Account;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace DemoIdentity.Identity.Account;
+
+[AllowAnonymous]
+public class LoginModel : PageModel
+{
+    private readonly UserManager<MyUser> _userManager;
+    private readonly SignInManager<MyUser> _signInManager;
+
+    public LoginModel(
+        UserManager<MyUser> userManager,
+        SignInManager<MyUser> signInManager)
+    {
+        _userManager = userManager;
+        _signInManager = signInManager;
+    }
+
+    [BindProperty]
+    public LoginDTO Login { get; set; }
+
+
+    public void OnGet()
+    {
+    }
+
+    public async Task<IActionResult> OnPostAsync()
+    {
+        if (!ModelState.IsValid)
+        {
+            return Page();
+        }
+
+        var user = await _userManager.FindByEmailAsync(Login.Email);
+        if (user == null)
+        {
+            ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+            return Page();
+        }
+
+        var check = await _signInManager.CheckPasswordSignInAsync(user, Login.Password, true);
+
+        if (check.Succeeded)
+        {
+            await _signInManager.SignInAsync(user, isPersistent: true);
+            return LocalRedirect("/");
+        }
+
+        if (check.IsLockedOut)
+        {
+            ModelState.AddModelError(string.Empty, "User account locked out.");
+            return Page();
+        }
+
+        ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+        return Page();
+    }
+}
