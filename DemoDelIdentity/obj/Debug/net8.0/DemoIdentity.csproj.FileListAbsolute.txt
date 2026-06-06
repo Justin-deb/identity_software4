@@ -158,3 +158,9 @@ C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\De
 C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\DemoIdentity.genruntimeconfig.cache
 C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\ref\DemoIdentity.dll
 C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\DemoIdentity.sourcelink.json
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Justin\Documents\Universidad de Costa Rica\Software4\DemoDelIdentity\DemoDelIdentity\obj\Debug\net8.0\DemoIdentity.MvcApplicationPartsAssemblyInfo.cs
